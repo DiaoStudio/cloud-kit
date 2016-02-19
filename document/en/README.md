@@ -4,7 +4,7 @@
 
 January 2014
 
-Containing twenty-four [design patterns](#Patterns) and ten related [guidance](#Guidance) topics, this guide articulates the benefit of applying patterns by showing how each piece can fit into the big picture of cloud application architectures. It also discusses the benefits and considerations for each pattern. Most of the patterns have [code samples](https://msdn.microsoft.com/en-us/library/dn622075.aspx) or snippets that show how to implement the patterns using the features of Microsoft Azure. However the majority of topics described in this guide are equally relevant to all kinds of distributed systems, whether hosted on Azure or on other cloud platforms.
+Containing twenty-four [design patterns](#design-patterns) and ten related [guidance](#guidance) topics, this guide articulates the benefit of applying patterns by showing how each piece can fit into the big picture of cloud application architectures. It also discusses the benefits and considerations for each pattern. Most of the patterns have [code samples](https://msdn.microsoft.com/en-us/library/dn622075.aspx) or snippets that show how to implement the patterns using the features of Microsoft Azure. However the majority of topics described in this guide are equally relevant to all kinds of distributed systems, whether hosted on Azure or on other cloud platforms.
 
 * [Download book (PDF)](https://www.microsoft.com/en-us/download/details.aspx?id=42026)
 * [Download code samples](http://aka.ms/Cloud-Design-Patterns-Sample)
