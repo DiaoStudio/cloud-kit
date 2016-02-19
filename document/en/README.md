@@ -13,7 +13,7 @@ Containing twenty-four [design patterns](#design-patterns) and ten related [guid
 
 # Design Patterns
 
-The following design patterns are useful in cloud-hosted applications. Each pattern is provided in a common format that describes the context and problem, the solution, issues and considerations for applying the pattern, and an example based on Azure. Each pattern also includes links to other related patterns. The icons at the top of each item represent the [problem areas](https://msdn.microsoft.com/en-us/library/dn589772.aspx#Categoryofdesignpatterns) that it relates to. Some of the patterns have code samples. You can download all code samples at once or click the [code sample](https://msdn.microsoft.com/en-us/library/dn622075.aspx) icon ![Dn568099.sample_code(en-us,PandP.10).png](https://i-msdn.sec.s-msft.com/dynimg/IC712347.png) associated with the individual pattern to download only that sample.
+The following design patterns are useful in cloud-hosted applications. Each pattern is provided in a common format that describes the context and problem, the solution, issues and considerations for applying the pattern, and an example based on Azure. Each pattern also includes links to other related patterns. The icons at the top of each item represent the [problem areas](https://msdn.microsoft.com/en-us/library/dn589772.aspx#Categoryofdesignpatterns) that it relates to. Some of the patterns have code samples. You can download all [code sample](https://msdn.microsoft.com/en-us/library/dn622075.aspx) at once or click the code samples icon ![Dn568099.sample_code(en-us,PandP.10).png](https://i-msdn.sec.s-msft.com/dynimg/IC712347.png) associated with the individual pattern to download only that sample.
 
 **Note**
 
