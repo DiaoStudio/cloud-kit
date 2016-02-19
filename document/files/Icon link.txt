@@ -1,0 +1,17 @@
+Data Management
+[![Data Management](https://i-msdn.sec.s-msft.com/dynimg/IC709483.png)](https://msdn.microsoft.com/en-us/library/dn600216.aspx)
+
+Performance & Scalability
+[![Performance & Scalability](https://i-msdn.sec.s-msft.com/dynimg/IC709484.png)](https://msdn.microsoft.com/en-us/library/dn600224.aspx)
+
+Design Patterns
+[![Design Patterns](https://i-msdn.sec.s-msft.com/dynimg/IC709485.png)](https://msdn.microsoft.com/en-us/library/dn600223.aspx)
+
+Resiliency
+[![Resiliency](https://i-msdn.sec.s-msft.com/dynimg/IC709487.png)](https://msdn.microsoft.com/en-us/library/dn600215.aspx)
+
+Messaging
+[![Messaging](https://i-msdn.sec.s-msft.com/dynimg/IC709490.png)](https://msdn.microsoft.com/en-us/library/dn600220.aspx)
+
+Download code sample
+[![Download code sample](https://i-msdn.sec.s-msft.com/dynimg/IC712347.png)]()
