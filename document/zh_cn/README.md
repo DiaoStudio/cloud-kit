@@ -102,7 +102,7 @@ Delegate authentication to an external identity provider. This pattern can simpl
 
 详细信息请点击 the Federated Identity Pattern.
 
-## 门卫模式
+## [门卫模式](10.Gatekeeper Pattern.md)
 [![安全性](https://i-msdn.sec.s-msft.com/dynimg/IC709498.png)](https://msdn.microsoft.com/en-us/library/dn600221.aspx)  [![设计模式](https://i-msdn.sec.s-msft.com/dynimg/IC709485.png)](https://msdn.microsoft.com/en-us/library/dn600223.aspx)
 
 通过使用一个专门的主机实例作为客户端和应用程序之间的“中间人”来保护应用程序和服务，它可以进行验证，也可以过滤有问题的请求，并且在客户端和应用服务之间传递请求和数据。这种模式可以提供一个额外的安全层，并限制了系统的易受攻击的部分。
