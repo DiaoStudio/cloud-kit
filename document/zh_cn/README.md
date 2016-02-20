@@ -102,14 +102,14 @@ Delegate authentication to an external identity provider. This pattern can simpl
 
 详细信息请点击 the Federated Identity Pattern.
 
-## Gatekeeper Pattern
+## 门卫模式
 [![安全性](https://i-msdn.sec.s-msft.com/dynimg/IC709498.png)](https://msdn.microsoft.com/en-us/library/dn600221.aspx)  [![设计模式](https://i-msdn.sec.s-msft.com/dynimg/IC709485.png)](https://msdn.microsoft.com/en-us/library/dn600223.aspx)
 
-Protect applications and services by using a dedicated host instance that acts as a broker between clients and the application or service, validates and sanitizes requests, and passes requests and data between them. This pattern can provide an additional layer of security, and limit the attack surface of the system.
+通过使用一个专门的主机实例作为客户端和应用程序之间的“中间人”来保护应用程序和服务，它可以进行验证，也可以过滤有问题的请求，并且在客户端和应用服务之间传递请求和数据。这种模式可以提供一个额外的安全层，并限制了系统的易受攻击的部分。
 
 ![Gatekeeper Pattern](../files/en/0_Gatekeeper_Pattern.png)
 
-详细信息请点击 the Gatekeeper Pattern.
+详细信息请点击[门卫模式](10.Gatekeeper Pattern.md).
 
 ## Health Endpoint Monitoring Pattern
 [![可用性](https://i-msdn.sec.s-msft.com/dynimg/IC709501.png)](https://msdn.microsoft.com/en-us/library/dn600219.aspx)  [![管理与监控](https://i-msdn.sec.s-msft.com/dynimg/IC709496.png)](https://msdn.microsoft.com/en-us/library/dn600218.aspx)  [![设计模式](https://i-msdn.sec.s-msft.com/dynimg/IC709485.png)](https://msdn.microsoft.com/en-us/library/dn600223.aspx)  [![下载示例代码](https://i-msdn.sec.s-msft.com/dynimg/IC712347.png)](http://code.msdn.microsoft.com/Health-Endpoint-Code-a7fe4fb6)
