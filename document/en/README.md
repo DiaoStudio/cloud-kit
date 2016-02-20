@@ -100,14 +100,14 @@ Delegate authentication to an external identity provider. This pattern can simpl
 
 For more info, see the Federated Identity Pattern.
 
-## Gatekeeper Pattern
+## [Gatekeeper Pattern](10.Gatekeeper Pattern.md)
 [![Security](https://i-msdn.sec.s-msft.com/dynimg/IC709498.png)](https://msdn.microsoft.com/en-us/library/dn600221.aspx)  [![Design Patterns](https://i-msdn.sec.s-msft.com/dynimg/IC709485.png)](https://msdn.microsoft.com/en-us/library/dn600223.aspx)
 
 Protect applications and services by using a dedicated host instance that acts as a broker between clients and the application or service, validates and sanitizes requests, and passes requests and data between them. This pattern can provide an additional layer of security, and limit the attack surface of the system.
 
 ![Gatekeeper Pattern](../files/en/0_Gatekeeper_Pattern.png)
 
-For more info, see the Gatekeeper Pattern.
+For more info, see the [Gatekeeper Pattern](10.Gatekeeper Pattern.md).
 
 ## Health Endpoint Monitoring Pattern
 [![Availability](https://i-msdn.sec.s-msft.com/dynimg/IC709501.png)](https://msdn.microsoft.com/en-us/library/dn600219.aspx)  [![Management and Monitoring](https://i-msdn.sec.s-msft.com/dynimg/IC709496.png)](https://msdn.microsoft.com/en-us/library/dn600218.aspx)  [![Design Patterns](https://i-msdn.sec.s-msft.com/dynimg/IC709485.png)](https://msdn.microsoft.com/en-us/library/dn600223.aspx)  [![Download code sample](https://i-msdn.sec.s-msft.com/dynimg/IC712347.png)](http://code.msdn.microsoft.com/Health-Endpoint-Code-a7fe4fb6)
