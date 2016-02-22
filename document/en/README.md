@@ -109,14 +109,14 @@ Protect applications and services by using a dedicated host instance that acts a
 
 For more info, see the [Gatekeeper Pattern](10.Gatekeeper Pattern.md).
 
-## Health Endpoint Monitoring Pattern
+## [Health Endpoint Monitoring Pattern](11.Health Endpoint Monitoring Pattern)
 [![Availability](https://i-msdn.sec.s-msft.com/dynimg/IC709501.png)](https://msdn.microsoft.com/en-us/library/dn600219.aspx)  [![Management and Monitoring](https://i-msdn.sec.s-msft.com/dynimg/IC709496.png)](https://msdn.microsoft.com/en-us/library/dn600218.aspx)  [![Design Patterns](https://i-msdn.sec.s-msft.com/dynimg/IC709485.png)](https://msdn.microsoft.com/en-us/library/dn600223.aspx)  [![Download code sample](https://i-msdn.sec.s-msft.com/dynimg/IC712347.png)](http://code.msdn.microsoft.com/Health-Endpoint-Code-a7fe4fb6)
 
 Implement functional checks within an application that external tools can access through exposed endpoints at regular intervals. This pattern can help to verify that applications and services are performing correctly.
 
 ![Health Endpoint Monitoring Pattern](../files/en/0_Health_Endpoint_Monitoring_Pattern.png)
 
-For more info, see the Health Endpoint Monitoring Pattern.
+For more info, see the [Health Endpoint Monitoring Pattern](11.Health Endpoint Monitoring Pattern).
 
 ## Index Table Pattern
 [![Data Management](https://i-msdn.sec.s-msft.com/dynimg/IC709483.png)](https://msdn.microsoft.com/en-us/library/dn600216.aspx)  [![Performance & Scalability](https://i-msdn.sec.s-msft.com/dynimg/IC709484.png)](https://msdn.microsoft.com/en-us/library/dn600224.aspx)  [![Design Patterns](https://i-msdn.sec.s-msft.com/dynimg/IC709485.png)](https://msdn.microsoft.com/en-us/library/dn600223.aspx)
