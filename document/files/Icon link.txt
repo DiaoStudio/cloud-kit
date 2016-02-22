@@ -15,3 +15,18 @@ Messaging
 
 Download code sample
 [![Download code sample](https://i-msdn.sec.s-msft.com/dynimg/IC712347.png)]()
+
+Design and Implementation
+[![Design and Implementation](https://i-msdn.sec.s-msft.com/dynimg/IC709492.png)](https://msdn.microsoft.com/en-us/library/dn600217.aspx)
+
+Management and Monitoring
+[![Management and Monitoring](https://i-msdn.sec.s-msft.com/dynimg/IC709496.png)](https://msdn.microsoft.com/en-us/library/dn600218.aspx)
+
+Security
+[![Security](https://i-msdn.sec.s-msft.com/dynimg/IC709498.png)](https://msdn.microsoft.com/en-us/library/dn600221.aspx)
+
+Availability
+[![Availability](https://i-msdn.sec.s-msft.com/dynimg/IC709501.png)](https://msdn.microsoft.com/en-us/library/dn600219.aspx)
+
+Cloud Guidance and Primers
+[![Cloud Guidance and Primers](https://i-msdn.sec.s-msft.com/dynimg/IC709515.png)](https://msdn.microsoft.com/en-us/library/dn600214.aspx)
