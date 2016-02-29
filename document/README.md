@@ -15,7 +15,7 @@ Index ([English](en), [简体中文](zh_cn))
 
 ### 设计模式
 
-1. Cache-aside Pattern
+1. Cache-aside Pattern ([English](en/1.Cache-Aside Pattern.md), [简体中文](zh_cn/1.Cache-Aside Pattern.md))
 2. Circuit Breaker Pattern
 3. Compensating Transaction Pattern
 4. Competing Consumers Pattern
