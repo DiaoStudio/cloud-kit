@@ -17,7 +17,7 @@ Index ([English](en), [简体中文](zh_cn))
 
 1. Cache-aside Pattern ([English](en/1.Cache-Aside Pattern.md), [简体中文](zh_cn/1.Cache-Aside Pattern.md))
 2. Circuit Breaker Pattern ([English](en/2.Circuit Breaker Pattern.md), [简体中文](zh_cn/2.Circuit Breaker Pattern.md))
-3. Compensating Transaction Pattern
+3. Compensating Transaction Pattern([English](en/3.Compensating Transaction Pattern.md), [简体中文](zh_cn/3.Compensating Transaction Pattern.md))
 4. Competing Consumers Pattern
 5. Compute Resource Consolidation Pattern
 6. Command and Query Responsibility Segregation (CQRS) Pattern
