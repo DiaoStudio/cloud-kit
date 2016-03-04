@@ -109,16 +109,16 @@ Delegate authentication to an external identity provider. This pattern can simpl
 
 ![Gatekeeper Pattern](../files/en/0_Gatekeeper_Pattern.png)
 
-详细信息请点击[门卫模式](10.Gatekeeper Pattern.md).
+详细信息请点击[门卫模式](10.Gatekeeper Pattern.md)。
 
-## Health Endpoint Monitoring Pattern
+## [健康终端监控模式](11.Health Endpoint Monitoring Pattern.md)
 [![可用性](https://i-msdn.sec.s-msft.com/dynimg/IC709501.png)](https://msdn.microsoft.com/en-us/library/dn600219.aspx)  [![管理与监控](https://i-msdn.sec.s-msft.com/dynimg/IC709496.png)](https://msdn.microsoft.com/en-us/library/dn600218.aspx)  [![设计模式](https://i-msdn.sec.s-msft.com/dynimg/IC709485.png)](https://msdn.microsoft.com/en-us/library/dn600223.aspx)  [![下载示例代码](https://i-msdn.sec.s-msft.com/dynimg/IC712347.png)](http://code.msdn.microsoft.com/Health-Endpoint-Code-a7fe4fb6)
 
-Implement functional checks within an application that external tools can access through exposed endpoints at regular intervals. This pattern can help to verify that applications and services are performing correctly.
+外部工具可以定期地通过暴露的终端在应用程序中实施功能检测。这个模式可以帮助用户验证应用程序和服务正在正确地运行。
 
 ![Health Endpoint Monitoring Pattern](../files/en/0_Health_Endpoint_Monitoring_Pattern.png)
 
-详细信息请点击 the Health Endpoint Monitoring Pattern.
+详细信息请点击[健康终端监控模式](11.Health Endpoint Monitoring Pattern.md)。
 
 ## Index Table Pattern
 [![数据管理](https://i-msdn.sec.s-msft.com/dynimg/IC709483.png)](https://msdn.microsoft.com/en-us/library/dn600216.aspx)  [![性能&可扩展性](https://i-msdn.sec.s-msft.com/dynimg/IC709484.png)](https://msdn.microsoft.com/en-us/library/dn600224.aspx)  [![设计模式](https://i-msdn.sec.s-msft.com/dynimg/IC709485.png)](https://msdn.microsoft.com/en-us/library/dn600223.aspx)

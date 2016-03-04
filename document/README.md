@@ -17,7 +17,7 @@ Index ([English](en), [简体中文](zh_cn))
 
 1. Cache-aside Pattern ([English](en/1.Cache-Aside Pattern.md), [简体中文](zh_cn/1.Cache-Aside Pattern.md))
 2. Circuit Breaker Pattern ([English](en/2.Circuit Breaker Pattern.md), [简体中文](zh_cn/2.Circuit Breaker Pattern.md))
-3. Compensating Transaction Pattern([English](en/3.Compensating Transaction Pattern.md), [简体中文](zh_cn/3.Compensating Transaction Pattern.md))
+3. Compensating Transaction Pattern ([English](en/3.Compensating Transaction Pattern.md), [简体中文](zh_cn/3.Compensating Transaction Pattern.md))
 4. Competing Consumers Pattern
 5. Compute Resource Consolidation Pattern
 6. Command and Query Responsibility Segregation (CQRS) Pattern
@@ -25,7 +25,7 @@ Index ([English](en), [简体中文](zh_cn))
 8. External Configuration Store Pattern
 9. Federated Identity Pattern
 10. Gatekeeper Pattern ([English](en/10.Gatekeeper Pattern.md), [简体中文](zh_cn/10.Gatekeeper Pattern.md))
-11. Health Endpoint Monitoring Pattern([English](en/11.Health Endpoint Monitoring Pattern))
+11. Health Endpoint Monitoring Pattern ([English](en/11.Health Endpoint Monitoring Pattern), [简体中文](zh_cn/11.Health Endpoint Monitoring Pattern.md))
 12. Index Table Pattern
 13. Leader Election Pattern
 14. Materialized View Pattern
