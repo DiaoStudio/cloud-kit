@@ -1,7 +1,7 @@
 # Cloud Kit: 云计算基础套件
 *Diao Studio*
 
-**v0.1.4**
+**v0.1**
 
 ## 简介
 这是一个关于云计算设计模式的工具库或者说是一个基础套件。这个项目来源于微软的关于云计算设计模式的[论文集](https://msdn.microsoft.com/en-us/library/dn568099.aspx)。  
@@ -29,11 +29,7 @@ z: bug fixed, small feature/improvment.
 
 | Ver | Description |
 | --- | --- |
-| v0.1 | 建立`document`文档结构，约定文档规范 |
-| v0.1.1 | 增加设计模式`10` |
-| v0.1.2 | 增加设计模式`1`、`2`、`3` |
-| v0.1.3 | 建立`cloud-common`文档结构，增加Logging支持 |
-| v0.1.4 | 增加设计模式`11` |
+| v0.1 | 建立`cloud-common`文档结构，增加Logging支持 |
 
 ## LICENSE
 
