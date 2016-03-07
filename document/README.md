@@ -26,7 +26,7 @@ Index ([English](en), [简体中文](zh_cn))
 9. Federated Identity Pattern
 10. Gatekeeper Pattern ([English](en/10.Gatekeeper Pattern.md), [简体中文](zh_cn/10.Gatekeeper Pattern.md))
 11. Health Endpoint Monitoring Pattern ([English](en/11.Health Endpoint Monitoring Pattern), [简体中文](zh_cn/11.Health Endpoint Monitoring Pattern.md))
-12. Index Table Pattern
+12. Index Table Pattern ([English](en/12.Index Table Pattern.md))
 13. Leader Election Pattern
 14. Materialized View Pattern
 15. Pipes and Filters Pattern

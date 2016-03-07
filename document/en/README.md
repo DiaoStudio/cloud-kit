@@ -118,14 +118,14 @@ Implement functional checks within an application that external tools can access
 
 For more info, see the [Health Endpoint Monitoring Pattern](11.Health Endpoint Monitoring Pattern).
 
-## Index Table Pattern
+## [Index Table Pattern](12.Index Table Pattern.md)
 [![Data Management](https://i-msdn.sec.s-msft.com/dynimg/IC709483.png)](https://msdn.microsoft.com/en-us/library/dn600216.aspx)  [![Performance & Scalability](https://i-msdn.sec.s-msft.com/dynimg/IC709484.png)](https://msdn.microsoft.com/en-us/library/dn600224.aspx)  [![Design Patterns](https://i-msdn.sec.s-msft.com/dynimg/IC709485.png)](https://msdn.microsoft.com/en-us/library/dn600223.aspx)
 
 Create indexes over the fields in data stores that are frequently referenced by query criteria. This pattern can improve query performance by allowing applications to more quickly retrieve data from a data store.
 
 ![Index Table Pattern](../files/en/0_Index_Table_Pattern.png)
 
-For more info, see the Index Table Pattern.
+For more info, see the [Index Table Pattern](12.Index Table Pattern.md).
 
 ## Leader Election Pattern
 [![Design and Implementation](https://i-msdn.sec.s-msft.com/dynimg/IC709492.png)](https://msdn.microsoft.com/en-us/library/dn600217.aspx)  [![Resiliency](https://i-msdn.sec.s-msft.com/dynimg/IC709487.png)](https://msdn.microsoft.com/en-us/library/dn600215.aspx)  [![Design Patterns](https://i-msdn.sec.s-msft.com/dynimg/IC709485.png)](https://msdn.microsoft.com/en-us/library/dn600223.aspx)  [![Download code sample](https://i-msdn.sec.s-msft.com/dynimg/IC712347.png)](http://code.msdn.microsoft.com/Leader-Election-Code-ad269c3e)
